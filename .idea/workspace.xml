@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/character_text_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/character_text_generation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/archive/8_bert_text_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/archive/bert_text_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/archive/9_seq2seq_attention_name2domain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/archive/seq2seq_attention_name2domain.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,7 @@
       <workItem from="1658516900575" duration="1703000" />
       <workItem from="1658533491359" duration="218000" />
       <workItem from="1658570079420" duration="1432000" />
-      <workItem from="1658571531920" duration="109000" />
+      <workItem from="1658571531920" duration="179000" />
     </task>
     <servers />
   </component>
