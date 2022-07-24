@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="" />
+    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/SGD.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BioXzEHdC5KSCZuX7yVsyGmVKF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -163,7 +169,7 @@
       <workItem from="1658533491359" duration="218000" />
       <workItem from="1658570079420" duration="1432000" />
       <workItem from="1658571531920" duration="824000" />
-      <workItem from="1658647762521" duration="769000" />
+      <workItem from="1658647762521" duration="1268000" />
     </task>
     <servers />
   </component>
