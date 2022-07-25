@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning/NN.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/SGD.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +38,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/notebooks",
+    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/deeplearning",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deeplearning" />
       <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/datasets" />
       <recent name="$PROJECT_DIR$/NLP" />
-      <recent name="$PROJECT_DIR$/deeplearning" />
       <recent name="$PROJECT_DIR$/matlab" />
     </key>
   </component>
@@ -169,7 +168,8 @@
       <workItem from="1658533491359" duration="218000" />
       <workItem from="1658570079420" duration="1432000" />
       <workItem from="1658571531920" duration="824000" />
-      <workItem from="1658647762521" duration="1268000" />
+      <workItem from="1658647762521" duration="1618000" />
+      <workItem from="1658739269990" duration="146000" />
     </task>
     <servers />
   </component>
