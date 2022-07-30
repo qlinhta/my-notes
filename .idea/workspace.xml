@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/permutation_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/spectralClustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/stochasticBlockModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_bethe_hessian_r_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_cin_cout_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_dense_sparse_graph_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_histogram_matrix_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_matrices_dense_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_matrices_sparse_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_n_communities_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-analysis/community-detection/test_sbm_complexity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network-analysis/graph-spectra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network-analysis/graph-spectra.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +50,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/network-analysis",
+    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/network-analysis/community-detection",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/network-analysis/community-detection" />
       <recent name="$PROJECT_DIR$/network-analysis" />
       <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/matlab" />
       <recent name="$PROJECT_DIR$/datasets" />
-      <recent name="$PROJECT_DIR$/deeplearning" />
     </key>
   </component>
   <component name="RunManager" selected="Python.batch_grad_descent">
@@ -176,7 +188,7 @@
       <workItem from="1658988605626" duration="957000" />
       <workItem from="1659076673061" duration="738000" />
       <workItem from="1659077461631" duration="3000" />
-      <workItem from="1659187177788" duration="2685000" />
+      <workItem from="1659187177788" duration="3113000" />
     </task>
     <servers />
   </component>
