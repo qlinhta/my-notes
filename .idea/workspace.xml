@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/Y108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/Y11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/F-Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/F-Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/GradientDescent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GradientDescent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/ModelValidation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/ModelValidation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +187,7 @@
       <workItem from="1659284104424" duration="1578000" />
       <workItem from="1659305201543" duration="542000" />
       <workItem from="1659794390384" duration="1096000" />
-      <workItem from="1659881826763" duration="3718000" />
+      <workItem from="1659881826763" duration="7977000" />
     </task>
     <servers />
   </component>
