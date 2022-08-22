@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lectures/py_lecture_set01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/GradientDescent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GradientDescent.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/ModelValidation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/ModelValidation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/StochasticGradientDescent.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/datasets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/datasets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/datasets" />
@@ -150,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.batch_grad_descent" />
         <item itemvalue="Python.mini_batch_grad_descent" />
+        <item itemvalue="Python.batch_grad_descent" />
         <item itemvalue="Python.PCAGaussian" />
       </list>
     </recent_temporary>
@@ -187,7 +185,14 @@
       <workItem from="1659284104424" duration="1578000" />
       <workItem from="1659305201543" duration="542000" />
       <workItem from="1659794390384" duration="1096000" />
-      <workItem from="1659881826763" duration="7977000" />
+      <workItem from="1659881826763" duration="9812000" />
+      <workItem from="1660013812866" duration="1202000" />
+      <workItem from="1660439515619" duration="598000" />
+      <workItem from="1660647738463" duration="858000" />
+      <workItem from="1660722709524" duration="2822000" />
+      <workItem from="1660981092465" duration="28000" />
+      <workItem from="1660981132608" duration="4025000" />
+      <workItem from="1660987120645" duration="2513000" />
     </task>
     <servers />
   </component>
