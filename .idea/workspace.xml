@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lectures/py_lecture_set01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/processing_images_test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +192,14 @@
       <workItem from="1660722709524" duration="2822000" />
       <workItem from="1660981092465" duration="28000" />
       <workItem from="1660981132608" duration="4025000" />
-      <workItem from="1660987120645" duration="2513000" />
+      <workItem from="1660987120645" duration="5833000" />
+      <workItem from="1661316721988" duration="5102000" />
+      <workItem from="1661958546330" duration="2247000" />
+      <workItem from="1662106848822" duration="2344000" />
+      <workItem from="1662535878950" duration="25000" />
+      <workItem from="1662535915140" duration="2191000" />
+      <workItem from="1662551244725" duration="76000" />
+      <workItem from="1662720270896" duration="2000" />
     </task>
     <servers />
   </component>
