@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ML-Algorithms/KMeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Add_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Container_With_Most_Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Integer_to_Roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Roman_to_Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +59,8 @@
       <recent name="$PROJECT_DIR$/network-analysis/community-detection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.KMeans">
-    <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Trapping_Rain_Water">
+    <configuration name="Container_With_Most_Water" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML-Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML-Algorithms/KMeans.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Container_With_Most_Water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gaussian_naive_bayes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Integer_to_Roman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML-Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML-Algorithms/gaussian_naive_bayes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Integer_to_Roman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Longest_Substring_Without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +112,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML-Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML-Algorithms/logistic_regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Longest_Substring_Without_Repeating_Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Roman_to_Integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Roman_to_Integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Trapping_Rain_Water" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Trapping_Rain_Water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,57 +192,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_forest_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML-Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML-Algorithms/random_forest_classification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ridge_and_lasso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML-Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML-Algorithms/ridge_and_lasso.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KMeans" />
-        <item itemvalue="Python.random_forest_classification" />
-        <item itemvalue="Python.ridge_and_lasso" />
-        <item itemvalue="Python.gaussian_naive_bayes" />
-        <item itemvalue="Python.logistic_regression" />
+        <item itemvalue="Python.Trapping_Rain_Water" />
+        <item itemvalue="Python.Roman_to_Integer" />
+        <item itemvalue="Python.Integer_to_Roman" />
+        <item itemvalue="Python.Container_With_Most_Water" />
+        <item itemvalue="Python.Longest_Substring_Without_Repeating_Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +253,9 @@
       <workItem from="1664183115576" duration="407000" />
       <workItem from="1664267339398" duration="607000" />
       <workItem from="1664376174438" duration="922000" />
-      <workItem from="1664399189007" duration="4741000" />
+      <workItem from="1664399189007" duration="4929000" />
+      <workItem from="1664404412793" duration="41000" />
+      <workItem from="1664404982963" duration="448000" />
     </task>
     <servers />
   </component>
@@ -269,23 +275,28 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Random_graph_generator.coverage" NAME="Random_graph_generator Coverage Results" MODIFIED="1664401488494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$bubble_short.coverage" NAME="bubble-short Coverage Results" MODIFIED="1664400464754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1664403843796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$markov_chain.coverage" NAME="markov_chain Coverage Results" MODIFIED="1664401201160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1664402116139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$shortest_path.coverage" NAME="shortest-path Coverage Results" MODIFIED="1664400258766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$mini_batch_grad_descent.coverage" NAME="mini_batch_grad_descent Coverage Results" MODIFIED="1658499582722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$Container_With_Most_Water.coverage" NAME="Container_With_Most_Water Coverage Results" MODIFIED="1664405265092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest_Substring_Without_Repeating_Characters Coverage Results" MODIFIED="1664405146429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Basic_search_algorithms.coverage" NAME="Basic_search_algorithms Coverage Results" MODIFIED="1664401731065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$main.coverage" NAME="main Coverage Results" MODIFIED="1659199176436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$knn.coverage" NAME="knn Coverage Results" MODIFIED="1664402241279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1664400643547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$ridge_and_lasso.coverage" NAME="ridge_and_lasso Coverage Results" MODIFIED="1664403189600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1664402567079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$batch_grad_descent.coverage" NAME="batch_grad_descent Coverage Results" MODIFIED="1658499595561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$polyminal_regression.coverage" NAME="polyminal_regression Coverage Results" MODIFIED="1664402392240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Inverse_of_matrix.coverage" NAME="Inverse_of_matrix Coverage Results" MODIFIED="1664401055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$gaussian_naive_bayes.coverage" NAME="gaussian_naive_bayes Coverage Results" MODIFIED="1664402859783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$bubble_short.coverage" NAME="bubble-short Coverage Results" MODIFIED="1664400464754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1664404094130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1664402116139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$mini_batch_grad_descent.coverage" NAME="mini_batch_grad_descent Coverage Results" MODIFIED="1658499582722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$Integer_to_Roman.coverage" NAME="Integer_to_Roman Coverage Results" MODIFIED="1664405339387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$Roman_to_Integer.coverage" NAME="Roman_to_Integer Coverage Results" MODIFIED="1664405428102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$ridge_and_lasso.coverage" NAME="ridge_and_lasso Coverage Results" MODIFIED="1664403189600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$polyminal_regression.coverage" NAME="polyminal_regression Coverage Results" MODIFIED="1664402392240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$PCAGaussian.coverage" NAME="PCAGaussian Coverage Results" MODIFIED="1657400044587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$regression_animation.coverage" NAME="regression_animation Coverage Results" MODIFIED="1664404109345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$random_forest_classification.coverage" NAME="random_forest_classification Coverage Results" MODIFIED="1664403804102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$A_star.coverage" NAME="A-star Coverage Results" MODIFIED="1664399442949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
   </component>
