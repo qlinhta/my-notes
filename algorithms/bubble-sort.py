@@ -1,4 +1,4 @@
-# Bubble short algorithm
+# Bubble sort algorithm
 
 def bubble_short(arr):
     for i in range(len(arr)):
