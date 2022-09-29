@@ -45,6 +45,7 @@ class Graph(object):
             edge u-v, is less than the distance value of v, then update the distance value of v.
     '''
 
+
 # Visualize the graph and shortest path with networkx
 import networkx as nx
 import matplotlib.pyplot as plt
