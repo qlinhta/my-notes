@@ -29,9 +29,12 @@ class Graph(object):
                     dist[v] = dist[u] + self.graph[u][v]
         self.printSolution(dist)
 
+
 # Visualize the graph and shortest path with networkx
 import networkx as nx
 import matplotlib.pyplot as plt
+
+
 def visualize_graph(graph):
     G = nx.Graph()
     for i in range(len(graph)):
@@ -43,6 +46,7 @@ def visualize_graph(graph):
     edge_labels = nx.get_edge_attributes(G, 'weight')
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
     plt.show()
+
 
 # Main
 if __name__ == "__main__":
@@ -58,4 +62,3 @@ if __name__ == "__main__":
                [0, 0, 2, 0, 0, 0, 6, 7, 0]]
     g.dijkstra(0)
     visualize_graph(g.graph)
-
