@@ -8,9 +8,6 @@ import matplotlib.pyplot as plt
 import torchvision
 import torchvision.transforms as transforms
 import torch.optim as optim
-import time
-import os
-import sys
 
 
 # Define the convolutional neural network
