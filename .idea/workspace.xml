@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/PCAGaussian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PCAGaussian.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/Area51&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/papers&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -48,11 +50,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/Area51" />
       <recent name="$PROJECT_DIR$/Leetcode/UnitTest" />
       <recent name="$PROJECT_DIR$/datasets" />
       <recent name="$PROJECT_DIR$/notebooks" />
-      <recent name="$PROJECT_DIR$/network-analysis" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Outliers">
@@ -251,6 +253,9 @@
       <workItem from="1665311369612" duration="205000" />
       <workItem from="1665474576567" duration="232000" />
       <workItem from="1665503046638" duration="483000" />
+      <workItem from="1665614597666" duration="29000" />
+      <workItem from="1665643032353" duration="2882000" />
+      <workItem from="1665652090111" duration="570000" />
     </task>
     <servers />
   </component>
