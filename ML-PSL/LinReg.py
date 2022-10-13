@@ -65,7 +65,7 @@ def main():
         plt.ylabel('$y$', fontsize=20)
 
         #save the figure to file path
-        plt.savefig(path + '/' + fn, bbox_inches='tight', dpi=600)
+        plt.savefig(path + '/' + fn, bbox_inches='tight', dpi=300)
 
         plt.show()
         print(w)
