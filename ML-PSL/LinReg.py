@@ -59,7 +59,7 @@ def main():
         plt.legend(loc="best")
 
         fn = 'linreg_' + str(d) + '.png'
-        path = '/Users/quyenlinhta/MasterPSL/ML/Images'
+        path = './images'
 
         plt.xlabel('$x$', fontsize=20)
         plt.ylabel('$y$', fontsize=20)
