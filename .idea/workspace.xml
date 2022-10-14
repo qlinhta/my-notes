@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Area51/PCAGaussian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/MaxPointsOnALine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/NestedMonte-CarloSearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +272,7 @@
       <workItem from="1665671573406" duration="36000" />
       <workItem from="1665671615328" duration="1157000" />
       <workItem from="1665739490121" duration="608000" />
-      <workItem from="1665778245954" duration="595000" />
+      <workItem from="1665778245954" duration="841000" />
     </task>
     <servers />
   </component>
