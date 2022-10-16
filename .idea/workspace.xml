@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/NestedMonte-CarloSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Area51/GraphicTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/datasets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MaxPointsOnALine">
+  <component name="RunManager" selected="Python.GraphicTest">
     <configuration name="ConnectedComponent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +71,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ConnectedComponent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GraphicTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/GraphicTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,35 +189,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quadratic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/quadratic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GraphicTest" />
         <item itemvalue="Python.MaxPointsOnALine" />
         <item itemvalue="Python.TextJustification" />
         <item itemvalue="Python.PCAGaussian" />
         <item itemvalue="Python.ConnectedComponent" />
-        <item itemvalue="Python.quadratic" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,8 @@
       <workItem from="1665671573406" duration="36000" />
       <workItem from="1665671615328" duration="1157000" />
       <workItem from="1665739490121" duration="608000" />
-      <workItem from="1665778245954" duration="841000" />
+      <workItem from="1665778245954" duration="850000" />
+      <workItem from="1665947586993" duration="467000" />
     </task>
     <servers />
   </component>
@@ -315,6 +316,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Merge_Intervals.coverage" NAME="Merge_Intervals Coverage Results" MODIFIED="1664471025912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Wildcard_Matching.coverage" NAME="N-Queens Coverage Results" MODIFIED="1664470501480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$ErectTheFence.coverage" NAME="ErectTheFence Coverage Results" MODIFIED="1664809254271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$GraphicTest.coverage" NAME="GraphicTest Coverage Results" MODIFIED="1665948053838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Roman_to_Integer.coverage" NAME="Roman_to_Integer Coverage Results" MODIFIED="1664405487986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$ridge_and_lasso.coverage" NAME="ridge_and_lasso Coverage Results" MODIFIED="1665653415536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-PSL" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$regression_animation.coverage" NAME="regression_animation Coverage Results" MODIFIED="1664404109345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
