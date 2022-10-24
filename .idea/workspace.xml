@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Area51/ImageSegmentation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Area51/ImageSegmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Area51/gradientdescent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/MRI-BRAIN-WITH-CONTRAST-0001.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,7 +276,7 @@
       <workItem from="1666299952181" duration="1836000" />
       <workItem from="1666426844424" duration="24000" />
       <workItem from="1666426876468" duration="650000" />
-      <workItem from="1666464582109" duration="1048000" />
+      <workItem from="1666464582109" duration="1667000" />
     </task>
     <servers />
   </component>
