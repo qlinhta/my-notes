@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 np.random.seed(4)
 from sklearn import linear_model
 
+
 def main():
     N = 30
     N_test = 20
@@ -15,13 +16,11 @@ def main():
     X_test = (np.random.rand(N_test, 1) - 1 / 8) * 10
     y_test = 3 * (X_test - 2) * (X_test - 3) * (X_test - 4) + 10 * np.random.randn(N_test, 1)
 
-
     def buildX(X, d=2):
         res = np.ones((X.shape[0], 1))
         for i in range(1, d + 1):
             res = np.concatenate((res, X ** i), axis=1)
         return res
-
 
     def myfit(X, y, d):
         Xbar = buildX(X, d)
@@ -59,17 +58,16 @@ def main():
         plt.legend(loc="best")
 
         fn = 'linreg_' + str(d) + '.png'
-        path = '/Users/quyenlinhta/MasterPSL/ML/Images'
+        path = './Images'
 
         plt.xlabel('$x$', fontsize=20)
         plt.ylabel('$y$', fontsize=20)
 
-        #save the figure to file path
+        # save the figure to file path
         plt.savefig(path + '/' + fn, bbox_inches='tight', dpi=600)
 
         plt.show()
         print(w)
-
 
     myfit(X, y, 1)
     myfit(X, y, 2)
@@ -77,6 +75,7 @@ def main():
     myfit(X, y, 4)
     myfit(X, y, 8)
     myfit(X, y, 16)
+
 
 if __name__ == '__main__':
     main()

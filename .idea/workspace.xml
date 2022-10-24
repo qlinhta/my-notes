@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="" />
+    <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Machine Learning PSL/LinReg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning PSL/LinReg.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,26 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/datasets&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/Machine Learning PSL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Machine Learning PSL" />
       <recent name="$PROJECT_DIR$/datasets" />
       <recent name="$PROJECT_DIR$/ML-PSL" />
       <recent name="$PROJECT_DIR$/papers" />
       <recent name="$PROJECT_DIR$/Area51" />
-      <recent name="$PROJECT_DIR$/Leetcode/UnitTest" />
     </key>
   </component>
   <component name="RunManager" selected="Python.gradientdescent">
@@ -277,6 +279,7 @@
       <workItem from="1666426844424" duration="24000" />
       <workItem from="1666426876468" duration="650000" />
       <workItem from="1666464582109" duration="1667000" />
+      <workItem from="1666645851292" duration="300000" />
     </task>
     <servers />
   </component>
