@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Machine Learning PSL/LinReg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning PSL/LinReg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/IntroAuML_C0_solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/IntroAuML_LinReg.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/LinReg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/linreg_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/images/ridge_and_lasso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning PSL/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/logistic_regression2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning PSL/logistic_regression2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-PSL/ridge_and_lasso.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning PSL/ridge_and_lasso.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +68,7 @@
       <recent name="$PROJECT_DIR$/Area51" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gradientdescent">
+  <component name="RunManager" selected="Python.LinReg">
     <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaxPointsOnALine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LinReg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine Learning PSL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/MaxPointsOnALine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine Learning PSL/LinReg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinReg" />
         <item itemvalue="Python.gradientdescent" />
         <item itemvalue="Python.BinarySearch" />
         <item itemvalue="Python.HamiltonianCycle" />
         <item itemvalue="Python.GraphicTest" />
-        <item itemvalue="Python.MaxPointsOnALine" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +292,7 @@
       <workItem from="1666426844424" duration="24000" />
       <workItem from="1666426876468" duration="650000" />
       <workItem from="1666464582109" duration="1667000" />
-      <workItem from="1666645851292" duration="300000" />
+      <workItem from="1666645851292" duration="602000" />
     </task>
     <servers />
   </component>
@@ -340,7 +353,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Basic_search_algorithms.coverage" NAME="Basic_search_algorithms Coverage Results" MODIFIED="1664401731065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$TextJustification.coverage" NAME="TextJustification Coverage Results" MODIFIED="1665778323864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$knn.coverage" NAME="knn Coverage Results" MODIFIED="1664402241279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$LinReg.coverage" NAME="LinReg Coverage Results" MODIFIED="1665653286827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-PSL" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$LinReg.coverage" NAME="LinReg Coverage Results" MODIFIED="1666646159177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning PSL" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$gaussian_naive_bayes.coverage" NAME="gaussian_naive_bayes Coverage Results" MODIFIED="1664402859783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$quadratic.coverage" NAME="quadratic Coverage Results" MODIFIED="1665659620666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$GenerateRandomPointInACircle.coverage" NAME="GenerateRandomPointInACircle Coverage Results" MODIFIED="1664809110738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
