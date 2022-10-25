@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_LinReg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_LinReg.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/RandomClassifyTest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/RandomClassifyTest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area51/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Area51/PCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/ExamPerformancePrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/ExamPerformancePrediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/Inverse_of_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/Inverse_of_matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gradientdescent" />
         <item itemvalue="Python.Overfitting" />
         <item itemvalue="Python.LinReg" />
-        <item itemvalue="Python.gradientdescent" />
-        <item itemvalue="Python.BinarySearch" />
         <item itemvalue="Python.HamiltonianCycle" />
+        <item itemvalue="Python.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +287,19 @@
       <workItem from="1666653189425" duration="592000" />
       <workItem from="1666653807354" duration="62000" />
       <workItem from="1666653877942" duration="122000" />
-      <workItem from="1666684323996" duration="2158000" />
+      <workItem from="1666684323996" duration="2275000" />
+      <workItem from="1666688474844" duration="641000" />
+      <workItem from="1666689120059" duration="485000" />
+      <workItem from="1666689618273" duration="281000" />
+      <workItem from="1666689908149" duration="111000" />
+      <workItem from="1666690026424" duration="128000" />
+      <workItem from="1666690162670" duration="45000" />
+      <workItem from="1666690215130" duration="97000" />
+      <workItem from="1666690323223" duration="49000" />
+      <workItem from="1666690375360" duration="578000" />
+      <workItem from="1666698442360" duration="11000" />
+      <workItem from="1666708252906" duration="34000" />
+      <workItem from="1666708724356" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>

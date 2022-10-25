@@ -5,6 +5,7 @@ PCA Algorithm for Dimensionality Reduction
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 class PCA:
     def __init__(self, n_components):
         self.n_components = n_components
@@ -45,9 +46,9 @@ class PCA:
 
 
 if __name__ == '__main__':
-
     # Create dataset for PCA test
     from sklearn.datasets import make_blobs
+
     X, y = make_blobs(n_samples=100, n_features=3, centers=3, random_state=42)
 
     # Create PCA object
