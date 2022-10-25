@@ -59,3 +59,4 @@ if __name__ == '__main__':
 
     # Plot the projected data
     pca.plot(X_pca, y)
+
