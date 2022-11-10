@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Area51/fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_C0_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_C0_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_LinReg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_LinReg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningPSL/MixtureGaussian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningPSL/MixtureGaussianAndKMeans.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +15,8 @@
       <list>
         <option value="package.json" />
         <option value="Python Unit Test" />
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -310,6 +308,7 @@
       <workItem from="1667243725917" duration="917000" />
       <workItem from="1667250931204" duration="700000" />
       <workItem from="1667253637978" duration="15000" />
+      <workItem from="1668067464307" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
