@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 class PCA():
     def __init__(self, data, n_components):
         self.data = data
@@ -22,20 +23,21 @@ class PCA():
         return np.dot(components, self.components) + self.mean
 
     def plot(self):
-        plt.plot(self.data[:,0], self.data[:,1], 'bo')
+        plt.plot(self.data[:, 0], self.data[:, 1], 'bo')
         plt.plot(self.mean[0], self.mean[1], 'ro')
         for vector in self.eigenvectors:
             start, end = self.mean, self.mean + vector
-            plt.arrow(*start, *(end-start), color='r', width=0.01, head_width=0.1)
+            plt.arrow(*start, *(end - start), color='r', width=0.01, head_width=0.1)
         plt.show()
+
 
 if __name__ == '__main__':
     # Generate data for PCA
-    data = np.random.multivariate_normal([0,0], [[1,0],[0,1]], 100)
-    data = np.vstack((data, np.random.multivariate_normal([5,5], [[1,0],[0,1]], 100)))
-    data = np.vstack((data, np.random.multivariate_normal([10,10], [[1,0],[0,1]], 100)))
-    data = np.vstack((data, np.random.multivariate_normal([15,15], [[1,0],[0,1]], 100)))
+    data = np.random.multivariate_normal([0, 0], [[1, 0], [0, 1]], 100)
+    data = np.vstack((data, np.random.multivariate_normal([5, 5], [[1, 0], [0, 1]], 100)))
+    data = np.vstack((data, np.random.multivariate_normal([10, 10], [[1, 0], [0, 1]], 100)))
+    data = np.vstack((data, np.random.multivariate_normal([15, 15], [[1, 0], [0, 1]], 100)))
 
     # Plot data
-    plt.plot(data[:,0], data[:,1], 'bo')
+    plt.plot(data[:, 0], data[:, 1], 'bo')
     plt.show()
