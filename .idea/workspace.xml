@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Area51/interview_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Area51/GaussianMixtureClustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Swap_Nodes_in_Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningPSL/Drafts/drf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningPSL/IntroAuML_Clustering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/GaussianMixtureModels.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +60,8 @@
       <recent name="$PROJECT_DIR$/papers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.interview_google">
-    <configuration name="AsteroidCollision" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.GaussianMixtureClustering">
+    <configuration name="GaussianMixtureClustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/AsteroidCollision.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/GaussianMixtureClustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ParseLispExpression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Swap_Nodes_in_Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +140,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/ParseLispExpression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Swap_Nodes_in_Pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GaussianMixtureClustering" />
+        <item itemvalue="Python.Swap_Nodes_in_Pairs" />
         <item itemvalue="Python.interview_google" />
         <item itemvalue="Python.PCAGaussian" />
         <item itemvalue="Python.Outliers" />
-        <item itemvalue="Python.ParseLispExpression" />
-        <item itemvalue="Python.AsteroidCollision" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +314,14 @@
       <workItem from="1667253637978" duration="15000" />
       <workItem from="1668067464307" duration="3191000" />
       <workItem from="1668352552093" duration="119000" />
-      <workItem from="1669050248749" duration="769000" />
+      <workItem from="1669050248749" duration="932000" />
+      <workItem from="1669103173059" duration="6383000" />
+      <workItem from="1669138181422" duration="602000" />
+      <workItem from="1669275369051" duration="378000" />
+      <workItem from="1669275755331" duration="1184000" />
+      <workItem from="1669276948273" duration="23000" />
+      <workItem from="1669398993274" duration="89000" />
+      <workItem from="1669507028011" duration="257000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -348,6 +359,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$MLE.coverage" NAME="MLE Coverage Results" MODIFIED="1664795928613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Container_With_Most_Water.coverage" NAME="Container_With_Most_Water Coverage Results" MODIFIED="1664405265092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$shortest_path.coverage" NAME="shortest-path Coverage Results" MODIFIED="1664454764906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$Swap_Nodes_in_Pairs.coverage" NAME="Swap_Nodes_in_Pairs Coverage Results" MODIFIED="1669139915082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$main.coverage" NAME="main Coverage Results" MODIFIED="1659199176436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1664400643547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$HierarchicalClustering.coverage" NAME="HierarchicalClustering Coverage Results" MODIFIED="1664547361618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
@@ -402,6 +414,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1664436773000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$LongestIncreasingPathInAMatrix.coverage" NAME="LongestIncreasingPathInAMatrix Coverage Results" MODIFIED="1664794311413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$SelfCrossing.coverage" NAME="SelfCrossing Coverage Results" MODIFIED="1664808890603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$GaussianMixtureClustering.coverage" NAME="GaussianMixtureClustering Coverage Results" MODIFIED="1669507257645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$mini_batch_grad_descent.coverage" NAME="mini_batch_grad_descent Coverage Results" MODIFIED="1658499582722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Integer_to_Roman.coverage" NAME="Integer_to_Roman Coverage Results" MODIFIED="1664405339387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1666725142745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
