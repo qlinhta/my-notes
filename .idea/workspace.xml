@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Area51/kmeans.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Area51/kmeans.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area51/kmeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Area51/kmeans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/py_lecture_set01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/py_lecture_set01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +319,8 @@
       <workItem from="1669276948273" duration="23000" />
       <workItem from="1669398993274" duration="89000" />
       <workItem from="1669507028011" duration="912000" />
-      <workItem from="1669911649537" duration="442000" />
+      <workItem from="1669911649537" duration="1056000" />
+      <workItem from="1669935061061" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
