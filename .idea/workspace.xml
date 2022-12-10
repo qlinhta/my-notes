@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML-Algorithms/LDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML-Algorithms/LDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +46,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/teaching&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -321,7 +328,10 @@
       <workItem from="1669911649537" duration="1056000" />
       <workItem from="1669935061061" duration="212000" />
       <workItem from="1670445540716" duration="258000" />
-      <workItem from="1670503970116" duration="74000" />
+      <workItem from="1670503970116" duration="1326000" />
+      <workItem from="1670508400997" duration="12000" />
+      <workItem from="1670508560716" duration="603000" />
+      <workItem from="1670612176924" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
