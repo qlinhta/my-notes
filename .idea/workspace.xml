@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML-Algorithms/LDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML-Algorithms/LDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/draft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,6 +330,7 @@
       <workItem from="1670508400997" duration="12000" />
       <workItem from="1670508560716" duration="603000" />
       <workItem from="1670612176924" duration="5000" />
+      <workItem from="1670668639012" duration="953000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
