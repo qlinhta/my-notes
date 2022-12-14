@@ -1,114 +1,74 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+# Problem sheet 02
 
-x1 = [0, -1, -2, -1, 1 / 2, 1, 1, 3 / 2]
-x2 = [-1, -1 / 2, -1, -3 / 2, 1, 2, 0, 1]
+# Python for loop
 
-X = np.array([x1, x2]).T
-y = np.array([0, 0, 0, 0, 1, 1, 1, 1])
+# Exercise 9: Modify the item in the list
+# A list of all european countries
+european_countries = ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia",
+                      "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania",
+                      "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia",
+                      "Spain", "Sweden", "United Kingdom"]
+# A list of 10 random countries that not necessarily are european countries
+random_countries = ["China", "India", "United States", "Finland", "France", "Germany", "Greece", "Hungary", "Nigeria",
+                    "Bangladesh"]
 
-df = pd.DataFrame(X, columns=['x1', 'x2'])
+# If the country is in the list of european countries, print "This is a european country"
+# If the country is not in the list of european countries, replace the country with a random country from the list of european countries"
+# Print the list of countries
 
-df['y'] = y
-
-sns.lmplot(x='x1', y='x2', data=df, hue='y', fit_reg=False, scatter_kws={"s": 100})
-plt.show()
-
-# Calulate the the means of the two classes
-mean_0 = np.mean(X[y == 0], axis=0)
-mean_1 = np.mean(X[y == 1], axis=0)
-
-# Calculate the pi0, pi1
-pi0 = np.sum(y == 0) / len(y)
-pi1 = np.sum(y == 1) / len(y)
-
-# Calculate the covariance matrix without numpy
-cov_0 = np.zeros((2, 2))
-cov_1 = np.zeros((2, 2))
-
-for i in range(len(y)):
-    if y[i] == 0:
-        cov_0 += np.outer(X[i] - mean_0, X[i] - mean_0)  # np.outer is the outer product of two vectors (a, b) -> a*b^T
+# Solution
+for country in random_countries:
+    if country in european_countries:
+        print(country, "is a european country")
     else:
-        cov_1 += np.outer(X[i] - mean_1, X[i] - mean_1)
+        random_countries[random_countries.index(country)] = european_countries[random_countries.index(country)]
+print(random_countries)
 
-cov_0 /= np.sum(y == 0)
-cov_1 /= np.sum(y == 1)
+# Exercise 10: We use the split method to create a list from a sentence
 
-# calculate the covariance matrix general
-cov = (pi0 * cov_0 + pi1 * cov_1) / len(y)
+# Create a list of words from the sentence "The quick brown fox jumps over the lazy dog"
+# Print the list of words
 
-# Calculate the inverse of the covariance matrix
-cov_inv = np.linalg.inv(cov)
+# Solution
+sentence = "The quick brown fox jumps over the lazy dog"
+list_of_words = sentence.split()
+print(list_of_words)
 
-# Calculate the weights
-w = np.dot(cov_inv, (mean_0 - mean_1))
+# Exercise 11: We use the join method to create a sentence from a list of words
 
-# Calculate the bias
-b = -0.5 * np.dot(np.dot(mean_0.T, cov_inv), mean_0) + 0.5 * np.dot(np.dot(mean_1.T, cov_inv), mean_1) + np.log(
-    pi0 / pi1)
+# Create a sentence from the list of words
+# Print the sentence
 
-# Calculate the decision boundary
-x1 = np.linspace(-2, 2, 100)
-x2 = -(w[0] * x1 + b) / w[1]
+# Solution
+a_list_of_words = ["The", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"]
+sentence = " ".join(a_list_of_words)
+print(sentence)
 
-# Plot the decision boundary
-sns.lmplot(x='x1', y='x2', data=df, hue='y', fit_reg=False, scatter_kws={"s": 100})
-plt.plot(x1, x2, color='black')
-plt.show()
+# Exercise 12: Create a new list with all words that are longer than 5 characters
+# Solution
+words = ['Long', 'words', 'include', 'grammarian', 'programmer', 'prestigious', 'and', 'beautiful']
+long_words = []
+for word in words:
+    if len(word) > 5:
+        long_words.append(word)
+print(long_words)
+# Other solution with comprehension list
+long_words = [word for word in words if len(word) > 5]
+print(long_words)
 
-# Predict the class of x = [1/2, 1/2], print probability of x and plot it on the graph
-x = np.array([1 / 2, 1 / 2])
-y_pred = np.dot(x, w) + b
-print('Probability of x = [1/2, 1/2] is: ', 1 / (1 + np.exp(-y_pred)))
-if y_pred > 0:
-    print('Class 1')
-else:
-    print('Class 0')
+# Exercise 13: Modify the list by indexing the list
+# Christmas is coming, so we want to change the list of gifts to "Christmas gifts"
+'''
+List of gifts: ['bike', 'car', 'house', 'boat', 'plane']
+List of Christmas gifts: ['Christmas bike', 'Christmas car', 'Christmas house', 'Christmas boat', 'Christmas plane']
+'''
+# Solution
+gifts = ['bike', 'car', 'house', 'boat', 'plane']
+christmas_gifts = []
+for gift in gifts:
+    christmas_gifts.append("Christmas " + gift)
+print(christmas_gifts)
+# Other solution with comprehension list
+christmas_gifts = ["Christmas " + gift for gift in gifts]
+print(christmas_gifts)
 
-sns.lmplot(x='x1', y='x2', data=df, hue='y', fit_reg=False, scatter_kws={"s": 100})
-plt.plot(x1, x2, color='black')
-plt.scatter(x[0], x[1], color='red', s=100)
-plt.show()
-
-# With mu_0 = [-1, -1, -1], mu_1 = [1, 1, 1], pi0 = 0.5, pi1 = 0.5
-mu_0 = np.array([-1, -1, -1])
-mu_1 = np.array([1, 1, 1])
-pi0 = 0.5
-pi1 = 0.5
-sigma = np.array([[2, 1, 1], [1, 1, 2], [1, 2, 2]])
-x_test = np.array([1, 0, 0])
-
-# Calculate the weights
-w = np.dot(np.linalg.inv(sigma), (mu_0 - mu_1))
-
-# Calculate the bias
-b = -0.5 * np.dot(np.dot(mu_0.T, np.linalg.inv(sigma)), mu_0) + 0.5 * np.dot(np.dot(mu_1.T, np.linalg.inv(sigma)),
-                                                                             mu_1) + np.log(pi0 / pi1)
-
-# Predict the class of x_test
-y_pred = np.dot(x_test, w) + b
-print('Probability of x_test is: ', 1 / (1 + np.exp(-y_pred)))
-if y_pred > 0:
-    print('Class 1')
-else:
-    print('Class 0')
-
-# With sigma = [[2, 0, 0], [0, 1, 0], [0, 0, 0]]
-sigma_c = np.array([[2, 0, 0], [0, 1, 0], [0, 0, 0]])
-
-# Calculate the weights
-w = np.dot(np.linalg.inv(sigma_c), (mu_0 - mu_1))
-
-# Calculate the bias
-b = -0.5 * np.dot(np.dot(mu_0.T, np.linalg.inv(sigma_c)), mu_0) + 0.5 * np.dot(np.dot(mu_1.T, np.linalg.inv(sigma_c)),
-                                                                               mu_1) + np.log(pi0 / pi1)
-# Predict the class of x_test
-y_pred = np.dot(x_test, w) + b
-print('Probability of x_test is: ', 1 / (1 + np.exp(-y_pred)))
-if y_pred > 0:
-    print('Class 1')
-else:
-    print('Class 0')
