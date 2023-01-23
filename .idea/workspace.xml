@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/PalindromeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/RegularExpressionMatching.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/ProblemSheet01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/ProblemSheet01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/ProblemSheet02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/ProblemSheet02.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/draft.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/draft.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching/Lab000.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/Lab000.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teaching/function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/function.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/list_set_tuple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/list_set_tuple.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +21,8 @@
       <list>
         <option value="package.json" />
         <option value="Python Unit Test" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -66,7 +65,7 @@
       <recent name="$PROJECT_DIR$/ML-PSL" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GaussianMixtureClustering">
+  <component name="RunManager" selected="Python.RegularExpressionMatching">
     <configuration name="GaussianMixtureClustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,28 +88,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Outliers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/Outliers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="PCAGaussian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +102,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/PCAGaussian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegularExpressionMatching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/RegularExpressionMatching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RegularExpressionMatching" />
         <item itemvalue="Python.GaussianMixtureClustering" />
         <item itemvalue="Python.Swap_Nodes_in_Pairs" />
         <item itemvalue="Python.interview_google" />
         <item itemvalue="Python.PCAGaussian" />
-        <item itemvalue="Python.Outliers" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +340,13 @@
       <workItem from="1670934908205" duration="1000" />
       <workItem from="1671043344404" duration="3107000" />
       <workItem from="1671053789750" duration="760000" />
-      <workItem from="1673093032336" duration="6873000" />
+      <workItem from="1673093032336" duration="7719000" />
+      <workItem from="1673106956286" duration="4000" />
+      <workItem from="1673268145897" duration="615000" />
+      <workItem from="1673302180738" duration="71000" />
+      <workItem from="1673386827534" duration="104000" />
+      <workItem from="1673691651422" duration="3816000" />
+      <workItem from="1674466934464" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -424,6 +429,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Inverse_of_matrix.coverage" NAME="Inverse_of_matrix Coverage Results" MODIFIED="1664401055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1666725142745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$pytorch_testing_001.coverage" NAME="pytorch_testing_001 Coverage Results" MODIFIED="1664874245716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$RegularExpressionMatching.coverage" NAME="RegularExpressionMatching Coverage Results" MODIFIED="1674467353389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$GenerateRandomPointInACircle.coverage" NAME="GenerateRandomPointInACircle Coverage Results" MODIFIED="1664809110738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$mini_batch_grad_descent.coverage" NAME="mini_batch_grad_descent Coverage Results" MODIFIED="1658499582722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$decision_tree.coverage" NAME="decision_tree Coverage Results" MODIFIED="1664546438459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
