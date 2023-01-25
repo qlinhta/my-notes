@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/ReverseNodesink-Group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/criticalConnections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/expressiveWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/judgeCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/longestIncreasingPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/removeStones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/reverseStr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/SwapNodesinPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/SwapNodesinPairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +68,29 @@
       <recent name="$PROJECT_DIR$/ML-PSL" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HashTable">
+  <component name="RunManager" selected="Python.FindClosestNodetoGivenTwoNodes">
+    <configuration name="FindClosestNodetoGivenTwoNodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="GaussianMixtureClustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,28 +179,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interview_google" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/interview_google.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FindClosestNodetoGivenTwoNodes" />
         <item itemvalue="Python.HashTable" />
         <item itemvalue="Python.RegularExpressionMatching" />
         <item itemvalue="Python.GaussianMixtureClustering" />
         <item itemvalue="Python.Swap_Nodes_in_Pairs" />
-        <item itemvalue="Python.interview_google" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +354,7 @@
       <workItem from="1674592972241" duration="44000" />
       <workItem from="1674594620477" duration="20000" />
       <workItem from="1674658578010" duration="763000" />
-      <workItem from="1674660612908" duration="431000" />
+      <workItem from="1674660612908" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -420,6 +425,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Trapping_Rain_Water.coverage" NAME="Trapping_Rain_Water Coverage Results" MODIFIED="1664405595865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$FloodFill.coverage" NAME="FloodFill Coverage Results" MODIFIED="1666873276435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$A_star.coverage" NAME="A-star Coverage Results" MODIFIED="1664399442949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$FindClosestNodetoGivenTwoNodes.coverage" NAME="FindClosestNodetoGivenTwoNodes Coverage Results" MODIFIED="1674663136724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$N_QueensII.coverage" NAME="N-QueensII Coverage Results" MODIFIED="1664470580513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$acyclic.coverage" NAME="acyclic Coverage Results" MODIFIED="1666872658472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$random_forest_classification.coverage" NAME="random_forest_classification Coverage Results" MODIFIED="1664403804102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
