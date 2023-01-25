@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/SwapNodesinPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/ReverseNodesink-Group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/SwapNodesinPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/SwapNodesinPairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +349,7 @@
       <workItem from="1674592972241" duration="44000" />
       <workItem from="1674594620477" duration="20000" />
       <workItem from="1674658578010" duration="763000" />
-      <workItem from="1674660612908" duration="258000" />
+      <workItem from="1674660612908" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
