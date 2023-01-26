@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/criticalConnections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/expressiveWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/judgeCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/longestIncreasingPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/removeStones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/reverseStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/FirstBadVersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/SearchInsertPosition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/SwapAdjacentinLRString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/CheapestFlightsWithinKStops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PalindromePartitioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofIslands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/snakesAndLadders.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +355,9 @@
       <workItem from="1674592972241" duration="44000" />
       <workItem from="1674594620477" duration="20000" />
       <workItem from="1674658578010" duration="763000" />
-      <workItem from="1674660612908" duration="2543000" />
+      <workItem from="1674660612908" duration="5172000" />
+      <workItem from="1674683599686" duration="5000" />
+      <workItem from="1674724902164" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
