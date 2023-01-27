@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/BinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/FirstBadVersion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/SearchInsertPosition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/SwapAdjacentinLRString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/CheapestFlightsWithinKStops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PalindromePartitioning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofIslands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/snakesAndLadders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/RotateArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/SquaresofaSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/MaxAreaofIsland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofClosedIslands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
       <recent name="$PROJECT_DIR$/ML-PSL" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FindClosestNodetoGivenTwoNodes">
+  <component name="RunManager" selected="Python.NumberofClosedIslands">
     <configuration name="FindClosestNodetoGivenTwoNodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +132,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="NumberofClosedIslands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/PathGraphTheoryI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofClosedIslands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="RegularExpressionMatching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,28 +168,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/RegularExpressionMatching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Swap_Nodes_in_Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Swap_Nodes_in_Pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NumberofClosedIslands" />
         <item itemvalue="Python.FindClosestNodetoGivenTwoNodes" />
         <item itemvalue="Python.HashTable" />
         <item itemvalue="Python.RegularExpressionMatching" />
         <item itemvalue="Python.GaussianMixtureClustering" />
-        <item itemvalue="Python.Swap_Nodes_in_Pairs" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +353,7 @@
       <workItem from="1674658578010" duration="763000" />
       <workItem from="1674660612908" duration="5172000" />
       <workItem from="1674683599686" duration="5000" />
-      <workItem from="1674724902164" duration="492000" />
+      <workItem from="1674724902164" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -420,6 +416,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1664400643547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1664436773000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$HashTable.coverage" NAME="HashTable Coverage Results" MODIFIED="1674505532639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lectures" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$NumberofClosedIslands.coverage" NAME="NumberofClosedIslands Coverage Results" MODIFIED="1674726217226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/PathGraphTheoryI" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Rotate_List.coverage" NAME="Rotate_List Coverage Results" MODIFIED="1664546832248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Integer_to_Roman.coverage" NAME="Integer_to_Roman Coverage Results" MODIFIED="1664405339387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$gaussian_naive_bayes.coverage" NAME="gaussian_naive_bayes Coverage Results" MODIFIED="1664402859783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-Algorithms" />
