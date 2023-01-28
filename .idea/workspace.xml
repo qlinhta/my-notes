@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/CountSubIslands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/ReverseWordsinaStringIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/TwoSumII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Assessments/minCost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Assessments/numIdenticalPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/DataStreamasDisjointIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/MoveZeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/AsFarfromLandasPossible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/PacificAtlanticWaterFlow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/learning_pytorch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofEnclaves.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/NumberofEnclaves.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +71,7 @@
       <recent name="$PROJECT_DIR$/ML-PSL" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NumberofClosedIslands">
+  <component name="RunManager" selected="Python.minCost">
     <configuration name="FindClosestNodetoGivenTwoNodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,28 +86,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/FindClosestNodetoGivenTwoNodes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GaussianMixtureClustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Area51" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Area51/GaussianMixtureClustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RegularExpressionMatching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="learning_pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lectures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/RegularExpressionMatching.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lectures/learning_pytorch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,13 +182,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="minCost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Assessments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Assessments/minCost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minCost" />
+        <item itemvalue="Python.learning_pytorch" />
         <item itemvalue="Python.NumberofClosedIslands" />
         <item itemvalue="Python.FindClosestNodetoGivenTwoNodes" />
         <item itemvalue="Python.HashTable" />
-        <item itemvalue="Python.RegularExpressionMatching" />
-        <item itemvalue="Python.GaussianMixtureClustering" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +360,8 @@
       <workItem from="1674660612908" duration="5172000" />
       <workItem from="1674683599686" duration="5000" />
       <workItem from="1674724902164" duration="1733000" />
-      <workItem from="1674825543284" duration="251000" />
+      <workItem from="1674825543284" duration="1426000" />
+      <workItem from="1674902048619" duration="1572000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -408,6 +417,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Overfitting.coverage" NAME="Overfitting Coverage Results" MODIFIED="1666647750133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningPSL" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Swap_Nodes_in_Pairs.coverage" NAME="Swap_Nodes_in_Pairs Coverage Results" MODIFIED="1669139915082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$batch_grad_descent.coverage" NAME="batch_grad_descent Coverage Results" MODIFIED="1658499595561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$learning_pytorch.coverage" NAME="learning_pytorch Coverage Results" MODIFIED="1674826369667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lectures" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$ParseLispExpression.coverage" NAME="ParseLispExpression Coverage Results" MODIFIED="1666873727088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$LongestIncreasingPathInAMatrix.coverage" NAME="LongestIncreasingPathInAMatrix Coverage Results" MODIFIED="1664794311413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$MaxPointsOnALine.coverage" NAME="MaxPointsOnALine Coverage Results" MODIFIED="1665778442887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
@@ -463,6 +473,7 @@
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Outliers.coverage" NAME="Outliers Coverage Results" MODIFIED="1668069169541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$FindMinimumInRotatedSortedArrayII.coverage" NAME="FindMinimumInRotatedSortedArrayII Coverage Results" MODIFIED="1664794152241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$Wildcard_Matching.coverage" NAME="N-Queens Coverage Results" MODIFIED="1664470501480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$minCost.coverage" NAME="minCost Coverage Results" MODIFIED="1674903559273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Assessments" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$quadratic.coverage" NAME="quadratic Coverage Results" MODIFIED="1665659620666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$interview_google.coverage" NAME="interview_google Coverage Results" MODIFIED="1669050882604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Area51" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$ridge_and_lasso.coverage" NAME="ridge_and_lasso Coverage Results" MODIFIED="1665653415536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML-PSL" />
