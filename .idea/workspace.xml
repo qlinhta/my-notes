@@ -13,8 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/MergeTwoBinaryTrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/PopulatingNextRightPointersinEach Node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +374,7 @@
       <workItem from="1675160484206" duration="15000" />
       <workItem from="1675163154018" duration="969000" />
       <workItem from="1675238947625" duration="4000" />
-      <workItem from="1675252156958" duration="655000" />
+      <workItem from="1675252156958" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
