@@ -13,34 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/ClimbingStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/Combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/HouseRobber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/LetterCasePermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/Permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Contests/CountVowelStringsinRanges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Contests/RearrangingFruits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Contests/TakeGiftsFromtheRichestPile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/FindAllAnagramsinaString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/JumpGameIII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/MinimumGeneticMutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/MinimumJumpstoReachHome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/OpentheLock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/WaterAndJugProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/WordLadder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PermutationinString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/Function2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/ProblemSheetFunction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/marketing_campaign.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/swan-100-102.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/swan-57-58.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/swan-73-74.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/swan.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/Numberof1Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/AlgorithmI/PowerofTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathGraphTheoryI/MinimumNumberofVerticestoReachAllNodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/ShuffletheArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/ShuffletheArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,6 +395,7 @@
       <workItem from="1675593767919" duration="1000" />
       <workItem from="1675602641956" duration="10244000" />
       <workItem from="1675689056961" duration="4000" />
+      <workItem from="1675723841231" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
