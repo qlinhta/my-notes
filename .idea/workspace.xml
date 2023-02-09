@@ -13,7 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/JumpGameII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/NamingaCompany.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -396,6 +396,8 @@
       <workItem from="1675723841231" duration="641000" />
       <workItem from="1675796656799" duration="504000" />
       <workItem from="1675877023627" duration="161000" />
+      <workItem from="1675879215910" duration="30000" />
+      <workItem from="1675925063400" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
