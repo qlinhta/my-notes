@@ -14,7 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/PandasLabAssignment001.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasLabAssignment001.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplearning/DeepCNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/DeepCNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,7 +412,9 @@
       <workItem from="1676414673902" duration="132000" />
       <workItem from="1676414817812" duration="1031000" />
       <workItem from="1676448421002" duration="313000" />
-      <workItem from="1676448762590" duration="2806000" />
+      <workItem from="1676448762590" duration="3987000" />
+      <workItem from="1676469081554" duration="377000" />
+      <workItem from="1676640883999" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
