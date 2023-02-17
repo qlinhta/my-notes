@@ -159,9 +159,9 @@ UCS(problem):
 
 Hypothesis: Cost(node, action) >= epsilon for all node and action.
 
-|Completeness|Optimality| Time complexity |Space complexity|
-|------------|----------|-----------------|----------------|
-|Yes|Yes| O(b^1+(c*/epsilon))| O(b^1+(c*/epsilon))|
+|Completeness|Optimality| Time complexity      | Space complexity     |
+|------------|----------|----------------------|----------------------|
+|Yes|Yes| O(b^(1+(c*/epsilon)) | O(b^(1+(c*/epsilon)) |
 
 where c* is the cost of the optimal solution and epsilon is the cost of the cheapest action.
 
