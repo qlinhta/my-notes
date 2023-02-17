@@ -13,11 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AI-PSL/A-star.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI-PSL/pseudo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/pseudo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI-PSL/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI-PSL/pseudo.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI-PSL/pseudo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,7 +416,7 @@
       <workItem from="1676448421002" duration="313000" />
       <workItem from="1676448762590" duration="3987000" />
       <workItem from="1676469081554" duration="377000" />
-      <workItem from="1676640883999" duration="1779000" />
+      <workItem from="1676640883999" duration="7131000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
