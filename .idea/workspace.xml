@@ -13,9 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/InvertBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/CapacityToShipPackagesWithinDDays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/IPO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/PandasLabAssignment001.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasLabAssignment001.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,6 +420,9 @@
       <workItem from="1676719736823" duration="22000" />
       <workItem from="1676724641056" duration="62000" />
       <workItem from="1676800475470" duration="13096000" />
+      <workItem from="1676822144016" duration="83000" />
+      <workItem from="1677102100785" duration="55000" />
+      <workItem from="1677194547652" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
