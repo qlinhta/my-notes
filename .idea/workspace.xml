@@ -13,8 +13,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/CapacityToShipPackagesWithinDDays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/IPO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/Matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +34,8 @@
       <list>
         <option value="package.json" />
         <option value="Python Unit Test" />
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -59,7 +63,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/AI-PSL&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quyenlinhta/PycharmProjects/DataAnalysisPSL/teaching&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,11 +75,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/teaching" />
+      <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/AI-PSL" />
       <recent name="$PROJECT_DIR$/Area51" />
-      <recent name="$PROJECT_DIR$/teaching" />
       <recent name="$PROJECT_DIR$/MachineLearningPSL" />
-      <recent name="$PROJECT_DIR$/Machine Learning PSL" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithms" />
@@ -423,6 +427,12 @@
       <workItem from="1676822144016" duration="83000" />
       <workItem from="1677102100785" duration="55000" />
       <workItem from="1677194547652" duration="57000" />
+      <workItem from="1677329003229" duration="697000" />
+      <workItem from="1677331308370" duration="664000" />
+      <workItem from="1677331995766" duration="369000" />
+      <workItem from="1677332558581" duration="2853000" />
+      <workItem from="1677356440622" duration="643000" />
+      <workItem from="1677403527410" duration="7101000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
