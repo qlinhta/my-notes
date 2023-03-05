@@ -13,13 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/Matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/titanic.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/MatplotlibOxford.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/wine.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.uniquePathsIII" />
+        <item itemvalue="Python.ShortestPathinBinaryMatrix" />
         <item itemvalue="Python.HouseRobberIV" />
         <item itemvalue="Python.CountVowelStringsinRanges" />
         <item itemvalue="Python.ASTAR" />
-        <item itemvalue="Python.ShortestPathinBinaryMatrix" />
-        <item itemvalue="Python.uniquePathsIII" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +430,13 @@
       <workItem from="1677331995766" duration="369000" />
       <workItem from="1677332558581" duration="2853000" />
       <workItem from="1677356440622" duration="643000" />
-      <workItem from="1677403527410" duration="7101000" />
+      <workItem from="1677403527410" duration="7619000" />
+      <workItem from="1677416639284" duration="5369000" />
+      <workItem from="1677842505934" duration="557000" />
+      <workItem from="1677885087253" duration="83000" />
+      <workItem from="1677885183527" duration="1000" />
+      <workItem from="1677885198215" duration="2233000" />
+      <workItem from="1678008227464" duration="6884000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
