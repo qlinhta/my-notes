@@ -13,11 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teaching/MatplotlibOxford.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/wine.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasLab03.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/PandasTitanicSolution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching/MatplotlibOxford.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/MatplotlibOxford.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,6 +434,8 @@
       <workItem from="1677885183527" duration="1000" />
       <workItem from="1677885198215" duration="2233000" />
       <workItem from="1678008227464" duration="6884000" />
+      <workItem from="1678023757216" duration="123000" />
+      <workItem from="1678314710195" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
