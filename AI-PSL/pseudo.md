@@ -122,13 +122,13 @@ is finite.
 
 Optimality: BFS is optimal if path cost is a non-decreasing function of the depth of the node.
 
-Time complexity and Space complexity: O(b^d) and O(b^d) respectively. Where b is the branching factor and d is the depth
+Time complexity and Space complexity: $O(b^d)$ and $O(b^d)$ respectively. Where b is the branching factor and d is the depth
 of the shallowest goal node.
 
-| Depth | Nodes | Time complexity | Space complexity |
-|-------|-------|-----------------|------------------|
-| 6     | 10^6  | 1.1s            | 1 GB             |
-| 10    | 10^10 | 3 hours         | 10 GB            |
+| Depth | Nodes   | Time complexity | Space complexity |
+|-------|---------|-----------------|------------------|
+| 6     | $10^6$  | 1.1s            | 1 GB             |
+| 10    | $10^10$ | 3 hours         | 10 GB            |
 
 ### GraphSearch | Uniform Cost Search
 
@@ -159,9 +159,9 @@ UCS(problem):
 
 Hypothesis: Cost(node, action) >= epsilon for all node and action.
 
-|Completeness|Optimality| Time complexity        | Space complexity       |
-|------------|----------|------------------------|------------------------|
-|Yes|Yes| $O(b^(1+(c*/epsilon))$ | $O(b^(1+(c*/epsilon))$ |
+| Completeness | Optimality | Time complexity          | Space complexity         |
+|--------------|------------|--------------------------|--------------------------|
+| Yes          | Yes        | $O(b^{1+(c*/\epsilon)})$ | $O(b^{1+(c*/\epsilon)})$ |
 
 where c* is the cost of the optimal solution and epsilon is the cost of the cheapest action.
 
