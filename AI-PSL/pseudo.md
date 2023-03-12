@@ -157,7 +157,7 @@ UCS(problem):
                 replace existing n' with new n' with score'
 ```
 
-Hypothesis: Cost(node, action) >= epsilon for all node and action.
+Hypothesis: $Cost(node, action) >= \epsilon$ for all node and action.
 
 | Completeness | Optimality | Time complexity          | Space complexity         |
 |--------------|------------|--------------------------|--------------------------|

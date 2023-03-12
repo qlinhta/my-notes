@@ -13,7 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AI-PSL/pseudo.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI-PSL/pseudo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -444,7 +443,7 @@
       <workItem from="1678530480088" duration="3459000" />
       <workItem from="1678605062693" duration="1714000" />
       <workItem from="1678606794244" duration="397000" />
-      <workItem from="1678642480392" duration="275000" />
+      <workItem from="1678642480392" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
