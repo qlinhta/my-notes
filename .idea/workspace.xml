@@ -13,7 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AI-PSL/pseudo.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI-PSL/pseudo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/marko-exo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +31,8 @@
       <list>
         <option value="package.json" />
         <option value="Python Unit Test" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -81,29 +84,7 @@
       <recent name="$PROJECT_DIR$/papers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HouseRobberIV">
-    <configuration name="ASTAR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysisPSL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lectures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lectures/ASTAR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.marko-exo">
     <configuration name="CountVowelStringsinRanges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,6 +173,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="marko-exo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysisPSL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teaching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teaching/marko-exo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="uniquePathsIII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysisPSL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.marko-exo" />
+        <item itemvalue="Python.HouseRobberIV" />
         <item itemvalue="Python.uniquePathsIII" />
         <item itemvalue="Python.ShortestPathinBinaryMatrix" />
-        <item itemvalue="Python.HouseRobberIV" />
         <item itemvalue="Python.CountVowelStringsinRanges" />
-        <item itemvalue="Python.ASTAR" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +446,9 @@
       <workItem from="1678530480088" duration="3459000" />
       <workItem from="1678605062693" duration="1714000" />
       <workItem from="1678606794244" duration="397000" />
-      <workItem from="1678642480392" duration="349000" />
+      <workItem from="1678642480392" duration="363000" />
+      <workItem from="1678742292017" duration="2077000" />
+      <workItem from="1678802607495" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
@@ -492,7 +497,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$marko_exo.coverage" NAME="marko-exo Coverage Results" MODIFIED="1678743710665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching" />
     <SUITE FILE_PATH="coverage/DataAnalysisPSL$CountVowelStringsinRanges.coverage" NAME="CountVowelStringsinRanges Coverage Results" MODIFIED="1675566763640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Contests" />
-    <SUITE FILE_PATH="coverage/DataAnalysisPSL$HouseRobberIV.coverage" NAME="HouseRobberIV Coverage Results" MODIFIED="1675567392695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Contests" />
+    <SUITE FILE_PATH="coverage/DataAnalysisPSL$HouseRobberIV.coverage" NAME="HouseRobberIV Coverage Results" MODIFIED="1678743005612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Contests" />
   </component>
 </project>
