@@ -1,0 +1,17 @@
+ESPOL,Burroughs Corporation,1961,ALGOL 60,MCP
+PL/I,"IBM, SHARE",1964,"ALGOL 60, FORTRAN, some COBOL",Multics
+PL360,Niklaus Wirth,1968,ALGOL 60,ALGOL W
+C,Dennis Ritchie,1969,BCPL,"Most operating system kernels, including Windows NT and most Unix-like systems"
+PL/S,IBM,196x,PL/I,OS/360
+BLISS,Carnegie Mellon University,1970,ALGOL-PL/I[26],VMS (portions)
+PL/8,IBM,197x,PL/I,AIX
+PL/MP and PL/MI,IBM,197x,PL/I,"CPF, OS/400"
+PL-6,"Honeywell, Inc.",197x,PL/I,CP-6
+SYMPL,CDC,197x,JOVIAL,"NOS subsystems, most compilers, FSE editor"
+C++,Bjarne Stroustrup,1979,"C, Simula",See C++ Applications[27]
+Ada,"Jean Ichbiah, S. Tucker Taft",1983,"ALGOL 68, Pascal, C++, Java, Eiffel","Embedded systems, OS kernels, compilers, games, simulations, CubeSat, air traffic control, and avionics"
+D,Digital Mars,2001,C++,Multiple domains[28]
+Nim,Andreas Rumpf,2008,"Ada, Modula-3, Lisp, C++, Object Pascal, Python, Oberon","OS kernels, compilers, games"
+Rust,Mozilla Research[29],2010,"C++, Haskell, Erlang, Ruby","Servo layout engine, Redox OS"
+Swift,Apple Inc.,2014,"C, Objective-C, Rust","macOS, iOS app development[e]"
+Zig,Andrew Kelley,2016,"C, C++, LLVM IR, Go, Rust, JavaScript",As a replacement for C
