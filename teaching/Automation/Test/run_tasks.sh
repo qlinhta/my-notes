@@ -9,3 +9,4 @@ python3 task2.py
 echo "Task 2 completed"
 
 echo "All tasks completed"
+

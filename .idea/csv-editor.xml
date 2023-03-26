@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/teaching/Automation/Examples/cat_facts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/teaching/Automation/Examples/quotes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/teaching/Automation/Test/programming_languages.csv">
           <value>
             <Attribute>
