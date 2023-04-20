@@ -5,9 +5,6 @@ import time as tm
 
 
 class NQueens:
-    '''Creates NQueens board
-    '''
-
     def __init__(self, num_cols, board=None, seed=0):
         self._rand_obj = np.random.RandomState()
         self._rand_obj.seed(seed)
@@ -84,14 +81,11 @@ class NQueensAgent:
         total_h = 0
         for col in range(state.size()):
             row = state.get_board()[col]
-            # We only need to check the columns in front of the current Queen
             for i in range(col + 1, state.size()):
                 if state.get_board()[i] == row:
                     total_h += 1
-                # Handle upper diagonal
                 elif state.get_board()[i] == (row - (col - i)):
                     total_h += 1
-                # Handle lower diagonal
                 elif state.get_board()[i] == (row + (col - i)):
                     total_h += 1
         return total_h
