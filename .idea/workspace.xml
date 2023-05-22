@@ -13,7 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af7e437-ccb7-47c8-9ca7-469593847a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AI-PSL/AI_Revision_Note/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/AI-PSL/AI_Revision_Note/main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI-PSL/AI_Revision_Note/qlinhta.cls" beforeDir="false" afterPath="$PROJECT_DIR$/AI-PSL/AI_Revision_Note/qlinhta.cls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -464,7 +465,7 @@
       <workItem from="1680376512776" duration="87000" />
       <workItem from="1682028335109" duration="816000" />
       <workItem from="1684590360770" duration="638000" />
-      <workItem from="1684740544283" duration="250000" />
+      <workItem from="1684740544283" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="Update :: Machine Learning PSL @ Addition files">
       <created>1666646485414</created>
